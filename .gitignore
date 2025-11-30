@@ -1,6 +1,5 @@
 # Go
 backend/hyperliquid-recon
-hyperliquid-recon
 backend/frontend/
 *.exe
 *.exe~
